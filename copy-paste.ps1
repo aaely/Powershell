@@ -1,0 +1,1 @@
+Copy-Item -Path '\\mlvsrvapp007\GenesisBravo\Production Config Files\PitWatch.ini' -Destination '\\mlvws258\C$\Program Files (x86)\Genesis Gaming\PitWatch\PitWatch.ini' -Force

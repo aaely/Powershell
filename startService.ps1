@@ -1,0 +1,1 @@
+Get-Service -Name Spooler  -ComputerName mlvws390 | Set-Service -Status Running
